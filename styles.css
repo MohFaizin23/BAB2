@@ -1,0 +1,39 @@
+body{
+	font-family:Arial,Helvetica,sans-serif;
+	color:white ;
+	background: #FAFAFA;
+	background-color: #74f5d1;
+	background-size: 100%;
+}
+#table-siswa{
+	border-collapse:collapse;
+	background-color:#069e90;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	margin: auto;
+}
+#table-siswa td,th{
+	padding: 10px;
+}
+#table-siswa h3{
+	font-size: 32px;
+}
+.link{
+	color: #D24444;
+	text-decoration: none;
+}
+img{
+	border-radius: 20px;
+	height: 160px;
+	width: 160px;
+}
+.warna1{
+	background-color:#02333b;
+}
+.besar{
+	font-size:20px;
+}
+.besar1{
+	font-weight: bold;
+}
